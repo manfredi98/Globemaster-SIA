@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'BasededatosGM',
         'HOST': 'localhost',
         'USER': 'postgres',
-        'PASSWORD':'1234',
+        'PASSWORD': '1234',
         'PORT': '5432',
      }
 }
