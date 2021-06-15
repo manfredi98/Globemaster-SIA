@@ -27,4 +27,6 @@ urlpatterns = [
     path('ventas', ventas),
     path('clientes', clientes),
     path('dashboard', dashboard),
+
+    path('accounts/', include('django.contrib.auth.urls')),
 ]
